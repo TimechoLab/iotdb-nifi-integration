@@ -1,0 +1,17 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-IoTDBWriterService
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-IoTDBWriterService-api (https://nifi.apache.org/nifi-nar-bundles/nifi-service/nifi-IoTDBWriterService-api) com.timecho.iotdb:nifi-IoTDBWriterService-api:jar:0.14.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.16.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
