@@ -22,7 +22,7 @@
         <version>0.14.0</version>
     </parent>
 
-    <artifactId>nifi-IoTDBWriterService-api</artifactId>
+    <artifactId>nifi-iotdb-service-api</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

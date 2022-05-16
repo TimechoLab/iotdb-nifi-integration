@@ -28,10 +28,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>nifi-IoTDBWriterService-api</module>
-        <module>nifi-IoTDBWriterService-api-nar</module>
-        <module>nifi-IoTDBWriterService</module>
-        <module>nifi-IoTDBWriterService-nar</module>
+        <module>nifi-iotdb-service-api</module>
+        <module>nifi-iotdb-service-api-nar</module>
+        <module>nifi-iotdb-service</module>
+        <module>nifi-iotdb-service-nar</module>
     </modules>
 
 </project>

@@ -28,8 +28,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>nifi-IoTDBProcessor-processors</module>
-        <module>nifi-IoTDBProcessor-nar</module>
+        <module>nifi-iotdb-processor</module>
+        <module>nifi-iotdb-processor-nar</module>
     </modules>
 
 </project>

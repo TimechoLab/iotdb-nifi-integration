@@ -22,7 +22,7 @@
         <version>0.14.0</version>
     </parent>
 
-    <artifactId>nifi-IoTDBWriterService-api-nar</artifactId>
+    <artifactId>nifi-iotdb-service-api-nar</artifactId>
     <version>0.14.0</version>
     <packaging>nar</packaging>
     <properties>
@@ -39,7 +39,7 @@
         </dependency>
         <dependency>
             <groupId>com.timecho.iotdb</groupId>
-            <artifactId>nifi-IoTDBWriterService-api</artifactId>
+            <artifactId>nifi-iotdb-service-api</artifactId>
             <version>0.14.0</version>
         </dependency>
     </dependencies>

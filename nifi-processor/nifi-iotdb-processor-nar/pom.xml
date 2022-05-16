@@ -22,7 +22,7 @@
         <version>0.14.0</version>
     </parent>
 
-    <artifactId>nifi-IoTDBProcessor-nar</artifactId>
+    <artifactId>nifi-iotdb-processor-nar</artifactId>
     <version>0.14.0</version>
     <packaging>nar</packaging>
     <properties>
